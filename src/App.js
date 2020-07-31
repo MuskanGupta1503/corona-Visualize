@@ -37,8 +37,8 @@ class App extends React.Component{
       fontSize: "30px",
       fontFamily: "Arial",
       padding: "10px",
-      margin:"10px"
-,    };
+      // margin:"10px"
+    };
     const {data,country}=this.state
     return(
       <div>
